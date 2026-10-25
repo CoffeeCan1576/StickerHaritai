@@ -1,0 +1,2 @@
+# StickerHaritai
+ARにステッキーを貼るアプリ
